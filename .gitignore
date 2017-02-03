@@ -1,4 +1,7 @@
 Pods/
+fastlane/
+*.zip
+*.ipa
 
 # Created by https://www.gitignore.io/api/xcode,osx,windows
 
